@@ -24,8 +24,6 @@ Password: password
 Name    : mosi@gmail.com
 password: mosi@gmail.com
 
-Name    : John Russel
-Password: password
 
 ![viber_image_2022-11-24_18-03-31-312](https://user-images.githubusercontent.com/87217053/204062732-e17de665-b403-4189-94fd-6725e06a5e54.jpg)
 ![viber_image_2022-11-24_18-03-55-482](https://user-images.githubusercontent.com/87217053/204062733-d168fe81-28a1-4163-a449-69ecfb7667da.jpg)
