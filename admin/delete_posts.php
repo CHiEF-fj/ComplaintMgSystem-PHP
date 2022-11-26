@@ -6,3 +6,4 @@ require '../core/config.php';
 		header("Location:admin-profile.php");
 
 ?>
+

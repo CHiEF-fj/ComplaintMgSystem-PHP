@@ -9,3 +9,4 @@ require '../core/admin-key.php';
 		header("Location:message.php");
 
 ?>
+
