@@ -43,7 +43,7 @@
             <div class="quotes blg text-center">
               <h3>ratu Emosi Bainimarama, Developer</h3>
 
-                <p>qua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
 
                 <br>
                 <a href="#" class="read">Read more</a>
@@ -56,7 +56,7 @@
             <div class="quotes blg">
               <h3>ratu Emosi Bainimarama, Developer</h3>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
                 <a href="#" class="read">Read more</a>
                 <br><br><br><br>
             </div>
@@ -65,7 +65,7 @@
           <div class="col-lg-4">
             <div class="quotes blg">
               <h3>ratu Emosi Bainimarama, Developer</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.nisi ut aliquip ex ea commodo consequat.</p>
+                <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
                 <a href="#" class="read">Read more</a>
                 <br><br><br><br>
             </div>
@@ -80,7 +80,7 @@
           <div class="col-lg-4">
             <div class="quotes blg">
               <h3>ratu Emosi Bainimarama, Developer</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
                 <a href="#" class="read">Read more</a>
                 <br><br><br><br>
             </div>
@@ -91,7 +91,7 @@
             <div class="col-lg-4">
               <div class="quotes blg">
                 <h3>ratu Emosi Bainimarama, Developer</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.nisi ut aliquip ex ea commodo consequat.</p>
+                  <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
                   <a href="#" class="read">Read more</a>
                   <br><br><br><br>
               </div>
@@ -100,7 +100,7 @@
 
           <div class="col-lg-4">
             <div class="quotes blg">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.nisi ut aliquip ex ea commodo consequat.</p>
+                <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
                 <a href="#" class="read">Read more</a>
                 <br><br><br><br>
             </div>
