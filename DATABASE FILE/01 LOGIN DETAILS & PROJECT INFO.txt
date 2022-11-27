@@ -1,10 +1,8 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: cpmsphp**
 
-**Developed by Ratu Emosi**
+**Developed by Ratu Emosi Bainimarama**
 
-**Recommended PHP Version 5.6.3**
+**Recommended PHP XAMPP Version 5.6.3**
 
 
 **Admin Login Details**
@@ -14,10 +12,16 @@ Password: admin
 
 **Customer Login Details**
 
+Email   : emosi@gmail.com
+Password: emosi
+
 Email   : george@gmail.com
 Password: password
 
 **Bank Officer Login Details**
+
+Name    : mosi@gmail.com
+password: mosi@gmail.com
 
 Name    : John Russel
 Password: password
