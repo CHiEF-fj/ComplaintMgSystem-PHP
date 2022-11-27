@@ -2,7 +2,7 @@
 
 **Database Name: cpmsphp**
 
-**Developed by Manash Bharali**
+**Developed by Ratu Emosi**
 
 **Recommended PHP Version 5.6.3**
 
