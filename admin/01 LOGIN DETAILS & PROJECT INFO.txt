@@ -23,6 +23,3 @@ Password: password
 Name    : mosi@gmail.com
 password: mosi@gmail.com
 
-Name    : John Russel
-Password: password
-
